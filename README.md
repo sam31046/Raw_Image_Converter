@@ -1,7 +1,7 @@
-# Raw_Image_Convertor
+# Raw_Image_Converter
 Greetings! 
 
-I am excited to introduce you to the Raw_Image_Convertor project which can efficiently convert your .nef/.NEF image files to .jpg format by using the terminal.  
+I am excited to introduce you to the Raw_Image_Converter project which can efficiently convert your .nef/.NEF image files to .jpg format by using the terminal.  
 
 As a photographer, you may have come across the need to convert your files for sharing or uploading purposes. With this project, you can now do so with just a few clicks.
 
